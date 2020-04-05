@@ -21,6 +21,9 @@ make plot
 ```
 or compile plot .py with python.
 
+### Example Output
+![Example Output](ExampleOutput.PNG)
+
 ### Dependencies
 *   Numpy
 *   Matplotlib
